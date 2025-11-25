@@ -13,6 +13,7 @@ Backend: Supabase (PostgreSQL)
 LLM Integration: OpenRouter API – Grok 4.1
 
 Cara Menjalankan Aplikasi
+
 1.Clone repository
 git clone https://github.com/rezamiaw/dashboard-talent-match-intelligence.git
 cd dashboard-talent-match-intelligence

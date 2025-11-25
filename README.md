@@ -15,7 +15,7 @@ LLM Integration: OpenRouter API – Grok 4.1
 Cara Menjalankan Aplikasi
 1.Clone repository
 git clone https://github.com/rezamiaw/dashboard-talent-match-intelligence.git
-cd hr-analytics-dashboard
+cd dashboard-talent-match-intelligence
 
 2.Install dependensi
 pip install -r requirements.txt

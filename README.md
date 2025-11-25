@@ -8,9 +8,10 @@ Proyek ini terdiri dari tiga tahap utama:
 3. Role-based AI Insights – Menggunakan model Grok 4.1 Fast (OpenRouter API) untuk menghasilkan deskripsi peran dan variabel kinerja utama.
 
 ⚙️ Tools
-Frontend: Streamlit Dashboard
-Backend: Supabase (PostgreSQL)
-LLM Integration: OpenRouter API – Grok 4.1
+
+1. Frontend: Streamlit Dashboard
+2. Backend: Supabase (PostgreSQL)
+3. LLM Integration: OpenRouter API – Grok 4.1
 
 Cara Menjalankan Aplikasi
 
